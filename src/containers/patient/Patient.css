@@ -1,0 +1,19 @@
+.btn-patient {
+    background-color: transparent !important;
+    color: #1C2232 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important; 
+}
+.btn-patient:hover {
+    background-color: #1C2232 !important;
+    color: #FFF !important;
+}
+
+.btn-view,
+.btn-update {
+    background-color: #1C2232 !important;
+    color: #FFF !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}

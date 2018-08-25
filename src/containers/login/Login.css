@@ -1,0 +1,11 @@
+.btn-login {
+    background-color: transparent !important;
+    color: #1C2232 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+.btn-login:hover {
+    background-color: #1C2232 !important;
+    color: #FFF !important;
+}
